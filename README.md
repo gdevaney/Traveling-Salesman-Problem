@@ -41,7 +41,7 @@ My two algorithms executed in a worst case O(n^2) time and
 | greedier_tsp | 7720.55 | 112538.10 | 36891.70 | 108858.38 | 576393.98 | 344367.66 | 603773.87 | 640159.01 | 983897.47 |
 | optimal | 6656 | 95345 | 26051 | 86891 | 491924 | 300899 | 520527 | 569288 | 855597 |
 
-Per the results, my algorithms produce approximately significantly better efficiency and abour 10% more optimal routes as traditional greedy algorithms. 
+Per the results, my algorithms produce significantly better efficiency and approximately 10% more optimal routes as traditional greedy algorithms. 
 
 ## Folders
 #### Countries

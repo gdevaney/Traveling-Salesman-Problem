@@ -33,7 +33,7 @@ My two algorithms executed in a worst case O(n^2) time and
 | greedy_tsp | 0.00029 | 0.04110 | 0.10661 | 0.14263 | 4.06400 | 4.02461 | 5.10876 | 21.33420 | 30.14881 |
 | greedier_tsp | 0.00017 | 0.03674 | 0.09397 | 0.13360 | 3.87369 | 3.80739 | 4.84779 | 19.25207 | 27.64599 |
 
-#### Optimality Resultss
+#### Optimality Results
 | | Djibouti | Zimbabwe | Rwanda | Oman | Japan | Greece | Finland | Vietnam | Sweden |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | non-heuristic | 8127.34 | 113506.10 | 31890.96 | 115149.40 | 615220.28 | 387147.15 | 649199.32 | 713474.41 | 1069442.97 |
